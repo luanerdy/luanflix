@@ -2,4 +2,4 @@
 
 ### Luanflix
 
-![print da tela](./assets/img/print.png)
+![print da tela](./src/assets/img/print.png)
